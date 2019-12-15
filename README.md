@@ -1,4 +1,6 @@
-# george-baldwin
+# george-baldwin (Work in progress)
+
+My own portfolio site made with vuejs
 
 ## Project setup
 ```
